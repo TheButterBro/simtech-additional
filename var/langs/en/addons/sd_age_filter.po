@@ -12,6 +12,10 @@ msgctxt "Addons::description::sd_age_filter"
 msgid "Allow you to add and manage departments of your company."
 msgstr "Allow you to add and manage departments of your company."
 
+msgctxt "Languages::sd_age_filter.age_verification"
+msgid "Age verification"
+msgstr "Age verification"
+
 msgctxt "Languages::sd_age_filter.warning"
 msgid "Attention! The content of the site is prohibited for viewing by persons under [setting_minimum_age] years of age."
 msgstr "Attention! The content of the site is prohibited for viewing by persons under [setting_minimum_age] years of age."

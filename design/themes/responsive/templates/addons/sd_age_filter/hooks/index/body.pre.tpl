@@ -1,8 +1,7 @@
 {if !isset($smarty.cookies.age_filter)}
     <div class="filter-fade">
         <div class="filter-wrapper cm-dialog-auto-size">
-            <div class="buttons-container">Age verification
-            </div>
+            <div class="buttons-container">{__("sd_age_filter.age_verification")}</div>
             <form name="my_form" action="{""|fn_url}" method="post">
                 <div class="filter-body">
                     <div class="filter-title">
@@ -42,7 +41,7 @@
 {if isset($smarty.cookies.age_filter) && !($smarty.cookies.age_filter === 'allowed')}
     <div class="filter-fade">
         <div class="filter-wrapper cm-dialog-auto-size">
-            <div class="buttons-container">Age verification</div>
+            <div class="buttons-container">{__("sd_age_filter.age_verification")}</div>
             <div class="filter-body">
                 <div class="filter-title">
                     {__("sd_age_filter.access_denied", ["[setting_minimum_age]" => $setting_minimum_age])}

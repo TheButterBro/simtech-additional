@@ -12,6 +12,10 @@ msgctxt "Addons::description::sd_age_filter"
 msgid "Allow you to add and manage departments of your company."
 msgstr "Позволяет установить ограничение по возрасту на просмотр магазина."
 
+msgctxt "Languages::sd_age_filter.age_verification"
+msgid "Age verification"
+msgstr "Проверка возраста"
+
 msgctxt "Languages::sd_age_filter.warning"
 msgid "Attention! The content of the site is prohibited for viewing by persons under [setting_minimum_age] years of age."
 msgstr "Внимание! Содержимое сайта запрещено для просмотра лицами младше [setting_minimum_age] лет."
@@ -27,3 +31,4 @@ msgstr "Доступ отклонен. Просмотр содержимого �
 msgctxt "SettingsOptions::sd_age_filter::minimal_age"
 msgid "Minimum age for website visitors (number)"
 msgstr "Минимальный возраст для посетителей сайта (число)"
+
