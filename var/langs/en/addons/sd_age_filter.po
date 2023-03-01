@@ -1,0 +1,33 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::sd_age_filter"
+msgid "Simtech Developments: Age filter"
+msgstr "Simtech Developments: Age filter"
+
+msgctxt "Addons::description::sd_age_filter"
+msgid "Allow you to add and manage departments of your company."
+msgstr "Allow you to add and manage departments of your company."
+
+msgctxt "Languages::sd_age_filter.age_verification"
+msgid "Age verification"
+msgstr "Age verification"
+
+msgctxt "Languages::sd_age_filter.warning"
+msgid "Attention! The content of the site is prohibited for viewing by persons under [setting_minimum_age] years of age."
+msgstr "Attention! The content of the site is prohibited for viewing by persons under [setting_minimum_age] years of age."
+
+msgctxt "Languages::sd_age_filter.enter_age"
+msgid "Please, enter your age:"
+msgstr "Please, enter your age:"
+
+msgctxt "Languages::sd_age_filter.access_denied"
+msgid "Access denied. Viewing the contents of the site is prohibited for persons under [setting_minimum_age] years of age."
+msgstr "Access denied. Viewing the contents of the site is prohibited for persons under [setting_minimum_age] years of age."
+
+msgctxt "SettingsOptions::sd_age_filter::minimal_age"
+msgid "Minimum age for website visitors (number)"
+msgstr "Minimum age for website visitors (number)"
